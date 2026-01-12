@@ -1,0 +1,2369 @@
+[
+  {
+    "id": 1,
+    "brand": "30865",
+    "series": "Qi35 MAX",
+    "model": "769382",
+    "year": "Qi35 MAX ドライバー Diamana Blue TM50",
+    "image": "data\\raw\\00001.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000076/0000769382/0000769382_01.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "31521",
+    "series": "XXIO(2026)",
+    "model": "798599",
+    "year": "ゼクシオ 14 ドライバー MP1400カーボン",
+    "image": "data\\raw\\00002.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000079/0000798599/0000798599_01.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "30836",
+    "series": "ELYTE X",
+    "model": "769331",
+    "year": "エリート X ドライバー VENTUS GREEN 5 for Callaway",
+    "image": "data\\raw\\00003.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000076/0000769331/0000769331_01.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "30833",
+    "series": "ELYTE",
+    "model": "769326",
+    "year": "エリート ドライバー VENTUS GREEN 5 for Callaway",
+    "image": "data\\raw\\00004.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000076/0000769326/0000769326_01.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "30863",
+    "series": "Qi35",
+    "model": "769380",
+    "year": "Qi35 ドライバー Diamana SILVER TM55",
+    "image": "data\\raw\\00005.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000076/0000769380/0000769380_01.jpg"
+  },
+  {
+    "id": 6,
+    "brand": "31522",
+    "series": "XXIO+(2026)",
+    "model": "798602",
+    "year": "ゼクシオ 14+ ドライバー SPEEDER NX DST for XXIO",
+    "image": "data\\raw\\00006.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000079/0000798602/0000798602_01.jpg"
+  },
+  {
+    "id": 7,
+    "brand": "30834",
+    "series": "ELYTE MAX FAST",
+    "model": "769335",
+    "year": "エリート MAX FAST ドライバー LIN-Q GREEN 40 for Callaway",
+    "image": "data\\raw\\00007.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000076/0000769335/0000769335_01.jpg"
+  },
+  {
+    "id": 8,
+    "brand": "30866",
+    "series": "Qi35 MAX LITE",
+    "model": "769383",
+    "year": "Qi35 MAX LITE ドライバー Air Speeder TM",
+    "image": "data\\raw\\00008.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000076/0000769383/0000769383_01.jpg"
+  },
+  {
+    "id": 9,
+    "brand": "30886",
+    "series": "G440 MAX",
+    "model": "770442",
+    "year": "G440 MAX ドライバー PING TOUR 2.0 CHROME 65／75",
+    "image": "data\\raw\\00009.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000077/0000770442/0000770442_01.jpg"
+  },
+  {
+    "id": 10,
+    "brand": "30826",
+    "series": "DS-ADAPT X",
+    "model": "772984",
+    "year": "DS-ADAPT X ドライバー LIN-Q for Cobra",
+    "image": "data\\raw\\00010.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000077/0000772984/0000772984_01.jpg"
+  },
+  {
+    "id": 11,
+    "brand": "31110",
+    "series": "ELYTE X 10K",
+    "model": "784774",
+    "year": "エリート X 10Kバージョン ドライバー VENTUS GREEN 5 for Callaway",
+    "image": "data\\raw\\00011.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000078/0000784774/0000784774_01.jpg"
+  },
+  {
+    "id": 12,
+    "brand": "30825",
+    "series": "DS-ADAPT MAX-K",
+    "model": "772988",
+    "year": "DS-ADAPT MAX-K ドライバー Speeder NX for cobra",
+    "image": "data\\raw\\00012.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000077/0000772988/0000772988_01.jpg"
+  },
+  {
+    "id": 13,
+    "brand": "29790",
+    "series": "XXIO 13(2024)",
+    "model": "725421",
+    "year": "ゼクシオ 13 ドライバー(ネイビー) MP1300カーボン",
+    "image": "data\\raw\\00013.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000072/0000725421/0000725421_01.jpg"
+  },
+  {
+    "id": 14,
+    "brand": "30822",
+    "series": "DS-ADAPT LS",
+    "model": "772979",
+    "year": "DS-ADAPT LS ドライバー LIN-Q for Cobra",
+    "image": "data\\raw\\00014.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000077/0000772979/0000772979_01.jpg"
+  },
+  {
+    "id": 15,
+    "brand": "30414",
+    "series": "GT2",
+    "model": "754660",
+    "year": "GT2 ドライバー TENSEI BLUE 1K 55",
+    "image": "data\\raw\\00015.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000075/0000754660/0000754660_01.jpg"
+  },
+  {
+    "id": 16,
+    "brand": "30885",
+    "series": "G440 LST",
+    "model": "770460",
+    "year": "G440 LST ドライバー PING TOUR 2.0 BLACK 65／75",
+    "image": "data\\raw\\00016.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000077/0000770460/0000770460_01.jpg"
+  },
+  {
+    "id": 17,
+    "brand": "29980",
+    "series": "G430 MAX 10K",
+    "model": "731012",
+    "year": "G430 MAX 10K ドライバー PING TOUR 2.0 CHROME 65／75",
+    "image": "data\\raw\\00017.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000073/0000731012/0000731012_01.jpg"
+  },
+  {
+    "id": 18,
+    "brand": "31002",
+    "series": "ELYTE MINI",
+    "model": "779630",
+    "year": "エリート MINI ドライバー TENSEI GREEN 60 for Callaway",
+    "image": "data\\raw\\00018.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000077/0000779630/0000779630_01.jpg"
+  },
+  {
+    "id": 19,
+    "brand": "30883",
+    "series": "G440 HL MAX",
+    "model": "770464",
+    "year": "G440 HL MAX ドライバー SPEEDER NX GREY 35／40",
+    "image": "data\\raw\\00019.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000077/0000770464/0000770464_01.jpg"
+  },
+  {
+    "id": 20,
+    "brand": "29789",
+    "series": "XXIO X(2024)",
+    "model": "725427",
+    "year": "ゼクシオ X ドライバー Miyazaki AX-3",
+    "image": "data\\raw\\00020.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000072/0000725427/0000725427_01.jpg"
+  },
+  {
+    "id": 21,
+    "brand": "31528",
+    "series": "TOUR WORLD TW777 360Ti",
+    "model": "801443",
+    "year": "ツアーワールド TW777 360Ti ドライバー VIZARD BLUE 50／60",
+    "image": "data\\raw\\00021.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000080/0000801443/0000801443_01.jpg"
+  },
+  {
+    "id": 22,
+    "brand": "30824",
+    "series": "DS-ADAPT MAX-D",
+    "model": "772993",
+    "year": "DS-ADAPT MAX-D ドライバー Speeder NX for cobra",
+    "image": "data\\raw\\00022.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000077/0000772993/0000772993_01.jpg"
+  },
+  {
+    "id": 23,
+    "brand": "31091",
+    "series": "r7 QUAD MINI",
+    "model": "784844",
+    "year": "r7 QUAD MINI ドライバー Diamana SILVER TM55 r7QMD",
+    "image": "data\\raw\\00023.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000078/0000784844/0000784844_01.jpg"
+  },
+  {
+    "id": 24,
+    "brand": "30884",
+    "series": "G440 HL SFT",
+    "model": "770466",
+    "year": "G440 HL SFT ドライバー SPEEDER NX GREY 35／40",
+    "image": "data\\raw\\00024.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000077/0000770466/0000770466_01.jpg"
+  },
+  {
+    "id": 25,
+    "brand": "31529",
+    "series": "TOUR WORLD TW777 MAX",
+    "model": "801441",
+    "year": "ツアーワールド TW777 MAX ドライバー VIZARD for TW777",
+    "image": "data\\raw\\00025.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000080/0000801441/0000801441_01.jpg"
+  },
+  {
+    "id": 26,
+    "brand": "30837",
+    "series": "ELYTE ﾄﾘﾌﾟﾙﾀﾞｲﾔﾓﾝﾄﾞ",
+    "model": "772230",
+    "year": "エリート ◆◆◆ドライバー TENSEI GREEN 60 for Callaway",
+    "image": "data\\raw\\00026.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000077/0000772230/0000772230_01.jpg"
+  },
+  {
+    "id": 27,
+    "brand": "30887",
+    "series": "G440 SFT",
+    "model": "770448",
+    "year": "G440 SFT ドライバー ALTA J CB BLUE",
+    "image": "data\\raw\\00027.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000077/0000770448/0000770448_01.jpg"
+  },
+  {
+    "id": 28,
+    "brand": "31064",
+    "series": "VOLTIO NINJA ﾌﾟﾚﾐｱﾑｶｰﾎﾞﾝ II",
+    "model": "783982",
+    "year": "VOLTIO NINJA プレミアムカーボン II Ti ドライバー TOUR AD VG-02",
+    "image": "data\\raw\\00028.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000078/0000783982/0000783982_01.jpg"
+  },
+  {
+    "id": 29,
+    "brand": "29914",
+    "series": "PARADYM Ai SMOKE MAX",
+    "model": "801457",
+    "year": "パラダイム Ai SMOKE MAX ドライバー(グリップ：ツアーベルベットラバー 360) TENSEI 50 for Callaway",
+    "image": "data\\raw\\00029.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000080/0000801457/0000801457_01.jpg"
+  },
+  {
+    "id": 30,
+    "brand": "31527",
+    "series": "TOUR WORLD TW777",
+    "model": "801442",
+    "year": "ツアーワールド TW777 ドライバー VIZARD BLUE 50／60",
+    "image": "data\\raw\\00030.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000080/0000801442/0000801442_01.jpg"
+  },
+  {
+    "id": 31,
+    "brand": "30415",
+    "series": "GT3",
+    "model": "754664",
+    "year": "GT3 ドライバー TENSEI BLUE 1K 55",
+    "image": "data\\raw\\00031.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000075/0000754664/0000754664_01.jpg"
+  },
+  {
+    "id": 32,
+    "brand": "30912",
+    "series": "GT1",
+    "model": "772004",
+    "year": "GT1 ドライバー AIR SPEEDER Next GEN",
+    "image": "data\\raw\\00032.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000077/0000772004/0000772004_01.jpg"
+  },
+  {
+    "id": 33,
+    "brand": "31339",
+    "series": "ONOFF KURO(2025)",
+    "model": "795441",
+    "year": "オノフ KURO ドライバー ONOFF CBT：626D",
+    "image": "data\\raw\\00033.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000079/0000795441/0000795441_01.jpg"
+  },
+  {
+    "id": 34,
+    "brand": "28930",
+    "series": "SHUTTLE BLACK IP(2022)",
+    "model": "685497",
+    "year": "シャトル ドライバー ブラックIP仕上げ IMPACT FIT m230(ブラック)",
+    "image": "data\\raw\\00034.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000068/0000685497/0000685497_01.jpg"
+  },
+  {
+    "id": 35,
+    "brand": "29562",
+    "series": "G LE 3",
+    "model": "712309",
+    "year": "G LE 3 ドライバー ULT250 J",
+    "image": "data\\raw\\00035.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000071/0000712309/0000712309_01.jpg"
+  },
+  {
+    "id": 36,
+    "brand": "28924",
+    "series": "G430 MAX",
+    "model": "684714",
+    "year": "G430 MAX ドライバー PING TOUR 2.0 CHROME 65／75",
+    "image": "data\\raw\\00036.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000068/0000684714/0000684714_01.jpg"
+  },
+  {
+    "id": 37,
+    "brand": "30595",
+    "series": "inpres DRIVE STAR TypeD(2025)",
+    "model": "754232",
+    "year": "25 インプレス DRIVE STAR TypeD ドライバー SPEEDER NX for Yamaha TM425d",
+    "image": "data\\raw\\00037.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000075/0000754232/0000754232_01.jpg"
+  },
+  {
+    "id": 38,
+    "brand": "31274",
+    "series": "BX1 ST",
+    "model": "797697",
+    "year": "BX1 ST ドライバー SPEEDER NX GOLD 60",
+    "image": "data\\raw\\00038.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000079/0000797697/0000797697_01.jpg"
+  },
+  {
+    "id": 39,
+    "brand": "31424",
+    "series": "B-LIMITED BX2 HT",
+    "model": "797699",
+    "year": "BX2 HT ドライバー TOUR AD FI-5",
+    "image": "data\\raw\\00039.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000079/0000797699/0000797699_01.jpg"
+  },
+  {
+    "id": 40,
+    "brand": "31068",
+    "series": "GT280 MINI",
+    "model": "772013",
+    "year": "GT280 ミニドライバー Tour AD DI-6",
+    "image": "data\\raw\\00040.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000077/0000772013/0000772013_01.jpg"
+  },
+  {
+    "id": 41,
+    "brand": "31001",
+    "series": "XXIO PRIME(2025)",
+    "model": "764272",
+    "year": "ゼクシオ プライム13 ドライバー ゼクシオプライム SP-1300",
+    "image": "data\\raw\\00041.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000076/0000764272/0000764272_01.jpg"
+  },
+  {
+    "id": 42,
+    "brand": "28083",
+    "series": "egg 44",
+    "model": "651830",
+    "year": "egg 44 ドライバー エッグオリジナル",
+    "image": "data\\raw\\00042.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000065/0000651830/0000651830_01.jpg"
+  },
+  {
+    "id": 43,
+    "brand": "30709",
+    "series": "SRIXON Zxi LS",
+    "model": "764572",
+    "year": "スリクソン ZXi LS ドライバー Tour AD VF 4／5／6／7",
+    "image": "data\\raw\\00043.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000076/0000764572/0000764572_01.jpg"
+  },
+  {
+    "id": 44,
+    "brand": "31473",
+    "series": "RMX DD-1",
+    "model": "802096",
+    "year": "RMX DD-1 ドライバー TENSEI Pro BLACK 1K Core 50／60／70／80",
+    "image": "data\\raw\\00044.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000080/0000802096/0000802096_01.jpg"
+  },
+  {
+    "id": 45,
+    "brand": "29146",
+    "series": "ST-Z230",
+    "model": "698010",
+    "year": "ST-Z230 ドライバー Tour AD GM D",
+    "image": "data\\raw\\00045.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000069/0000698010/0000698010_01.jpg"
+  },
+  {
+    "id": 46,
+    "brand": "31475",
+    "series": "RMX DD-2",
+    "model": "802122",
+    "year": "RMX DD-2 ドライバー VANQUISH VV 3／4／5",
+    "image": "data\\raw\\00046.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000080/0000802122/0000802122_01.jpg"
+  },
+  {
+    "id": 47,
+    "brand": "30710",
+    "series": "SRIXON Zxi MAX",
+    "model": "764596",
+    "year": "スリクソン ZXi MAX ドライバー Diamana WB 43／53／63／73",
+    "image": "data\\raw\\00047.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000076/0000764596/0000764596_01.jpg"
+  },
+  {
+    "id": 48,
+    "brand": "31062",
+    "series": "RS SPEED",
+    "model": "778269",
+    "year": "RS SPEED ドライバー SPEEDER NX FOR PRGR",
+    "image": "data\\raw\\00048.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000077/0000778269/0000778269_01.jpg"
+  },
+  {
+    "id": 49,
+    "brand": "30173",
+    "series": "B3 MAX(2024)",
+    "model": "740428",
+    "year": "B3 MAX ドライバー VANQUISH BS40 for MAX",
+    "image": "data\\raw\\00049.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000074/0000740428/0000740428_01.jpg"
+  },
+  {
+    "id": 50,
+    "brand": "31013",
+    "series": "CRYSTAL egg",
+    "model": "778264",
+    "year": "CRYSTAL egg ドライバー CRYSTAL egg専用シャフト",
+    "image": "data\\raw\\00050.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000077/0000778264/0000778264_01.jpg"
+  },
+  {
+    "id": 51,
+    "brand": "31056",
+    "series": "REVA RISE",
+    "model": "779631",
+    "year": "REVA RISE ドライバー ELDIO 40 for Callaway(BLUE)",
+    "image": "data\\raw\\00051.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000077/0000779631/0000779631_01.jpg"
+  },
+  {
+    "id": 52,
+    "brand": "30277",
+    "series": "RSX MAX(2024)",
+    "model": "748144",
+    "year": "RSX MAX ドライバー TENSEI FOR PRGR",
+    "image": "data\\raw\\00052.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000074/0000748144/0000748144_01.jpg"
+  },
+  {
+    "id": 53,
+    "brand": "30115",
+    "series": "UFO by POWER TORNADOAIRBlueDD",
+    "model": "736477",
+    "year": "UFO by POWER TORNADO AIR Blue DD ドライバー Falcon Shaft AIR",
+    "image": "data\\raw\\00053.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000073/0000736477/0000736477_01.jpg"
+  },
+  {
+    "id": 54,
+    "brand": "21205",
+    "series": "YONEX Junior(2016)",
+    "model": "497277",
+    "year": "ドライバーJ120 ジュニア専用カーボン",
+    "image": "data\\raw\\00054.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000049/0000497277/0000497277_01.jpg"
+  },
+  {
+    "id": 55,
+    "brand": "27239",
+    "series": "BERES 4S",
+    "model": "734729",
+    "year": "ベレス 09 4S ドライバー ARMRQ FX 4S",
+    "image": "data\\raw\\00055.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000073/0000734729/0000734729_01.jpg"
+  },
+  {
+    "id": 56,
+    "brand": "30278",
+    "series": "RSX(2024)",
+    "model": "748143",
+    "year": "RSX ドライバー Diamana FOR PRGR",
+    "image": "data\\raw\\00056.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000074/0000748143/0000748143_01.jpg"
+  },
+  {
+    "id": 57,
+    "brand": "30711",
+    "series": "SRIXON Zxi TR",
+    "model": "789056",
+    "year": "スリクソン ZXi TR ドライバー VENTUS ZXi 6",
+    "image": "data\\raw\\00057.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000076/0000764625/0000764625_p01_01.jpg"
+  },
+  {
+    "id": 58,
+    "brand": "28267",
+    "series": "STEALTH",
+    "model": "658943",
+    "year": "ステルス ドライバー TENSEI RED TM50",
+    "image": "data\\raw\\00058.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000065/0000658943/0000658943_01.jpg"
+  },
+  {
+    "id": 59,
+    "brand": "28268",
+    "series": "STEALTH HD",
+    "model": "658949",
+    "year": "ステルス HD ドライバー TENSEI RED TM50",
+    "image": "data\\raw\\00059.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000065/0000658949/0000658949_01.jpg"
+  },
+  {
+    "id": 60,
+    "brand": "29958",
+    "series": "Qi10 MAX",
+    "model": "730741",
+    "year": "Qi10 MAX ドライバー Diamana Blue TM50",
+    "image": "data\\raw\\00060.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000073/0000730741/0000730741_01.jpg"
+  },
+  {
+    "id": 61,
+    "brand": "28865",
+    "series": "STEALTH GLOIRE",
+    "model": "679758",
+    "year": "ステルス グローレ ドライバー SPEEDER NX for TM",
+    "image": "data\\raw\\00061.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000067/0000679758/0000679758_01.jpg"
+  },
+  {
+    "id": 62,
+    "brand": "29079",
+    "series": "STEALTH 2 HD",
+    "model": "692500",
+    "year": "ステルス2 HD ドライバー TENSEI RED TM50",
+    "image": "data\\raw\\00062.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000069/0000692500/0000692500_01.jpg"
+  },
+  {
+    "id": 63,
+    "brand": "29071",
+    "series": "PARADYM",
+    "model": "691570",
+    "year": "パラダイム ドライバー VENTUS TR 5 for Callaway",
+    "image": "data\\raw\\00063.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000069/0000691570/0000691570_01.jpg"
+  },
+  {
+    "id": 64,
+    "brand": "29366",
+    "series": "BRNR MINI",
+    "model": "706331",
+    "year": "バーナー ミニドライバー PROFORCE 65 M40X J-SPEC",
+    "image": "data\\raw\\00064.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000070/0000706331/0000706331_01.jpg"
+  },
+  {
+    "id": 65,
+    "brand": "27612",
+    "series": "SIM2 MAX",
+    "model": "634029",
+    "year": "SIM2 マックス ドライバー TENSEI BLUE TM50",
+    "image": "data\\raw\\00065.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000063/0000634029/0000634029_01.jpg"
+  },
+  {
+    "id": 66,
+    "brand": "29957",
+    "series": "Qi10",
+    "model": "730736",
+    "year": "Qi10 ドライバー Diamana Blue TM50",
+    "image": "data\\raw\\00066.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000073/0000730736/0000730736_01.jpg"
+  },
+  {
+    "id": 67,
+    "brand": "27619",
+    "series": "SIM2 MAX-D",
+    "model": "634034",
+    "year": "SIM2 マックス-D ドライバー TENSEI BLUE TM50",
+    "image": "data\\raw\\00067.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000063/0000634034/0000634034_01.jpg"
+  },
+  {
+    "id": 68,
+    "brand": "28288",
+    "series": "ROGUE ST MAX",
+    "model": "658533",
+    "year": "ローグ ST MAX ドライバー VENTUS 5 for Callaway",
+    "image": "data\\raw\\00068.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000065/0000658533/0000658533_01.jpg"
+  },
+  {
+    "id": 69,
+    "brand": "29074",
+    "series": "PARADYM X",
+    "model": "691572",
+    "year": "パラダイム X ドライバー VENTUS TR 5 for Callaway",
+    "image": "data\\raw\\00069.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000069/0000691572/0000691572_01.jpg"
+  },
+  {
+    "id": 70,
+    "brand": "29078",
+    "series": "STEALTH 2",
+    "model": "692495",
+    "year": "ステルス2 ドライバー TENSEI RED TM50",
+    "image": "data\\raw\\00070.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000069/0000692495/0000692495_01.jpg"
+  },
+  {
+    "id": 71,
+    "brand": "30315",
+    "series": "BRNR MINI(2024)",
+    "model": "750321",
+    "year": "バーナー ミニドライバー カッパー PROFORCE 65 M40X J-SPEC",
+    "image": "data\\raw\\00071.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000075/0000750321/0000750321_01.jpg"
+  },
+  {
+    "id": 72,
+    "brand": "29915",
+    "series": "PARADYM Ai SMOKE MAX D",
+    "model": "730191",
+    "year": "パラダイム Ai SMOKE MAX D ドライバー TENSEI 50 for Callaway",
+    "image": "data\\raw\\00072.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000073/0000730191/0000730191_01.jpg"
+  },
+  {
+    "id": 73,
+    "brand": "28289",
+    "series": "ROGUE ST MAX D",
+    "model": "658538",
+    "year": "ローグ ST MAX D ドライバー VENTUS 5 for Callaway",
+    "image": "data\\raw\\00073.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000065/0000658538/0000658538_01.jpg"
+  },
+  {
+    "id": 74,
+    "brand": "28926",
+    "series": "G430 LST",
+    "model": "684708",
+    "year": "G430 LST ドライバー PING TOUR 2.0 CHROME 65／75",
+    "image": "data\\raw\\00074.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000068/0000684708/0000684708_01.jpg"
+  },
+  {
+    "id": 75,
+    "brand": "27621",
+    "series": "EPIC MAX",
+    "model": "632646",
+    "year": "エピック MAX ドライバーDiamana 40 for Callaway",
+    "image": "data\\raw\\00075.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000063/0000632646/0000632646_01.jpg"
+  },
+  {
+    "id": 76,
+    "brand": "29981",
+    "series": "G430 MAX 10K HL",
+    "model": "731019",
+    "year": "G430 MAX 10K HL ドライバー SPEEDER NX 35／45",
+    "image": "data\\raw\\00076.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000073/0000731019/0000731019_01.jpg"
+  },
+  {
+    "id": 77,
+    "brand": "29087",
+    "series": "G430 HL MAX",
+    "model": "692210",
+    "year": "G430 HL MAX ドライバー SPEEDER NX 35／45",
+    "image": "data\\raw\\00077.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000069/0000692210/0000692210_01.jpg"
+  },
+  {
+    "id": 78,
+    "brand": "28290",
+    "series": "ROGUE ST MAX FAST",
+    "model": "658542",
+    "year": "ローグ ST MAX FAST ドライバー SPEEDER NX40 for Callaway",
+    "image": "data\\raw\\00078.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000065/0000658542/0000658542_01.jpg"
+  },
+  {
+    "id": 79,
+    "brand": "28973",
+    "series": "SRIXON ZX5 MkII",
+    "model": "684896",
+    "year": "スリクソン ZX5 MkII ドライバー Diamana ZX-II 50",
+    "image": "data\\raw\\00079.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000068/0000684896/0000684896_01.jpg"
+  },
+  {
+    "id": 80,
+    "brand": "29612",
+    "series": "B2 HT",
+    "model": "716019",
+    "year": "B2 HT ドライバー VANQUISH BS50",
+    "image": "data\\raw\\00080.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000071/0000716019/0000716019_01.jpg"
+  },
+  {
+    "id": 81,
+    "brand": "29916",
+    "series": "PARADYM Ai SMOKE MAX FAST",
+    "model": "730200",
+    "year": "パラダイム Ai SMOKE MAX FAST ドライバー TENSEI 40 for Callaway",
+    "image": "data\\raw\\00081.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000073/0000730200/0000730200_01.jpg"
+  },
+  {
+    "id": 82,
+    "brand": "27616",
+    "series": "EPIC SPEED",
+    "model": "632647",
+    "year": "エピック SPEED ドライバーDiamana 50 for Callaway",
+    "image": "data\\raw\\00082.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000063/0000632647/0000632647_01.jpg"
+  },
+  {
+    "id": 83,
+    "brand": "28868",
+    "series": "TSR2",
+    "model": "682366",
+    "year": "TSR2 ドライバー Tour AD DI-5／6",
+    "image": "data\\raw\\00083.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000068/0000682366/0000682366_01.jpg"
+  },
+  {
+    "id": 84,
+    "brand": "28866",
+    "series": "STEALTH GLOIRE PLUS",
+    "model": "682642",
+    "year": "ステルス グローレ プラス ドライバー SPEEDER NX for TM",
+    "image": "data\\raw\\00084.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000068/0000682642/0000682642_01.jpg"
+  },
+  {
+    "id": 85,
+    "brand": "30094",
+    "series": "DARKSPEED LS",
+    "model": "734677",
+    "year": "ダークスピード LS ドライバー Tour AD for Cobra",
+    "image": "data\\raw\\00085.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000073/0000734677/0000734677_01.jpg"
+  },
+  {
+    "id": 86,
+    "brand": "30095",
+    "series": "DARKSPEED MAX",
+    "model": "734686",
+    "year": "ダークスピード MAX ドライバー Speeder NX for cobra",
+    "image": "data\\raw\\00086.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000073/0000734686/0000734686_01.jpg"
+  },
+  {
+    "id": 87,
+    "brand": "30324",
+    "series": "PARADYM Ai SMOKE Ti 340MINI",
+    "model": "750088",
+    "year": "パラダイム Ai SMOKE Ti 340 MINI ドライバー TENSEI 60 for Callaway",
+    "image": "data\\raw\\00087.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000075/0000750088/0000750088_01.jpg"
+  },
+  {
+    "id": 88,
+    "brand": "30096",
+    "series": "DARKSPEED X",
+    "model": "734681",
+    "year": "ダークスピード X ドライバー Speeder NX for cobra",
+    "image": "data\\raw\\00088.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000073/0000734681/0000734681_01.jpg"
+  },
+  {
+    "id": 89,
+    "brand": "27201",
+    "series": "XXIO(2020)",
+    "model": "599168",
+    "year": "ゼクシオ イレブン ドライバー(ネイビー) MP1100カーボン",
+    "image": "data\\raw\\00089.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000059/0000599168/0000599168_01.jpg"
+  },
+  {
+    "id": 90,
+    "brand": "28294",
+    "series": "LTDX",
+    "model": "663012",
+    "year": "LTDx ドライバー Speeder NX for Cobra",
+    "image": "data\\raw\\00090.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000066/0000663012/0000663012_01.jpg"
+  },
+  {
+    "id": 91,
+    "brand": "29072",
+    "series": "PARADYM MAX FAST",
+    "model": "691581",
+    "year": "パラダイム MAX FAST ドライバー SPEEDER NX40 for Callaway",
+    "image": "data\\raw\\00091.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000069/0000691581/0000691581_01.jpg"
+  },
+  {
+    "id": 92,
+    "brand": "28925",
+    "series": "G430 SFT",
+    "model": "684716",
+    "year": "G430 SFT ドライバー ALTA J CB BLACK",
+    "image": "data\\raw\\00092.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000068/0000684716/0000684716_01.jpg"
+  },
+  {
+    "id": 93,
+    "brand": "27518",
+    "series": "SIM GLOIRE",
+    "model": "624533",
+    "year": "SIM グローレ ドライバー Air Speeder TM",
+    "image": "data\\raw\\00093.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000062/0000624533/0000624533_01.jpg"
+  },
+  {
+    "id": 94,
+    "brand": "28104",
+    "series": "XXIO(2022)ﾈｲﾋﾞｰ",
+    "model": "654725",
+    "year": "ゼクシオ 12 ドライバー(ネイビー) MP1200カーボン",
+    "image": "data\\raw\\00094.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000065/0000654725/0000654725_01.jpg"
+  },
+  {
+    "id": 95,
+    "brand": "30708",
+    "series": "SRIXON Zxi",
+    "model": "761199",
+    "year": "スリクソン ZXi ドライバー Diamana ZXi 50",
+    "image": "data\\raw\\00095.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000076/0000761199/0000761199_01.jpg"
+  },
+  {
+    "id": 96,
+    "brand": "29088",
+    "series": "G430 HL SFT",
+    "model": "692212",
+    "year": "G430 HL SFT ドライバー SPEEDER NX 35／45",
+    "image": "data\\raw\\00096.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000069/0000692212/0000692212_01.jpg"
+  },
+  {
+    "id": 97,
+    "brand": "28744",
+    "series": "RS JUST",
+    "model": "673927",
+    "year": "RS JUST ドライバー Diamana FOR PRGR BLACK",
+    "image": "data\\raw\\00097.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000067/0000673927/0000673927_01.jpg"
+  },
+  {
+    "id": 98,
+    "brand": "28974",
+    "series": "SRIXON ZX5 MkII LS",
+    "model": "684897",
+    "year": "スリクソン ZX5 MkII LS ドライバー Diamana ZX-II 50",
+    "image": "data\\raw\\00098.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000068/0000684897/0000684897_01.jpg"
+  },
+  {
+    "id": 99,
+    "brand": "28296",
+    "series": "LTDX MAX",
+    "model": "663022",
+    "year": "LTDx MAX ドライバー Speeder NX for Cobra",
+    "image": "data\\raw\\00099.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000066/0000663022/0000663022_01.jpg"
+  },
+  {
+    "id": 100,
+    "brand": "28869",
+    "series": "TSR3",
+    "model": "682373",
+    "year": "TSR3 ドライバー Tour AD IZ-5／6",
+    "image": "data\\raw\\00100.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000068/0000682373/0000682373_01.jpg"
+  },
+  {
+    "id": 101,
+    "brand": "29008",
+    "series": "GREAT BIG BERTHA(2023)",
+    "model": "718003",
+    "year": "グレートビッグバーサ ドライバー SPEEDER NX 40 BLK for GBB",
+    "image": "data\\raw\\00101.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000071/0000718003/0000718003_01.jpg"
+  },
+  {
+    "id": 102,
+    "brand": "28897",
+    "series": "23inpres DRIVE STAR",
+    "model": "682297",
+    "year": "23 インプレス DRIVE STAR ドライバー SPEEDER NX for Yamaha M423d",
+    "image": "data\\raw\\00102.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000068/0000682297/0000682297_01.jpg"
+  },
+  {
+    "id": 103,
+    "brand": "29482",
+    "series": "BIG BERTHA(2023)",
+    "model": "709394",
+    "year": "ビッグバーサ ドライバー SPEEDER NX for Callaway",
+    "image": "data\\raw\\00103.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000070/0000709394/0000709394_01.jpg"
+  },
+  {
+    "id": 104,
+    "brand": "29075",
+    "series": "TSR1(2023)",
+    "model": "695253",
+    "year": "TSR1 ドライバー TSP 120 50",
+    "image": "data\\raw\\00104.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000069/0000695253/0000695253_01.jpg"
+  },
+  {
+    "id": 105,
+    "brand": "29610",
+    "series": "B1 ST",
+    "model": "716016",
+    "year": "B1 ST ドライバー VENTUS BS6",
+    "image": "data\\raw\\00105.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000071/0000716016/0000716016_01.jpg"
+  },
+  {
+    "id": 106,
+    "brand": "29147",
+    "series": "AEROJET",
+    "model": "693394",
+    "year": "エアロジェット ドライバー Speeder NX for cobra WHITE",
+    "image": "data\\raw\\00106.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000069/0000693394/0000693394_01.jpg"
+  },
+  {
+    "id": 107,
+    "brand": "28102",
+    "series": "XXIO X(2022)",
+    "model": "654727",
+    "year": "ゼクシオ エックス ドライバー Miyazaki AX-2",
+    "image": "data\\raw\\00107.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000065/0000654727/0000654727_01.jpg"
+  },
+  {
+    "id": 108,
+    "brand": "27622",
+    "series": "EPIC MAX LS",
+    "model": "632642",
+    "year": "エピック MAX LS ドライバーTENSEI 55 for Callaway",
+    "image": "data\\raw\\00108.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000063/0000632642/0000632642_01.jpg"
+  },
+  {
+    "id": 109,
+    "brand": "28745",
+    "series": "RS JUST D",
+    "model": "673928",
+    "year": "RS JUST D ドライバー Diamana FOR PRGR SILVER",
+    "image": "data\\raw\\00109.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000067/0000673928/0000673928_01.jpg"
+  },
+  {
+    "id": 110,
+    "brand": "29149",
+    "series": "AEROJET MAX",
+    "model": "693399",
+    "year": "エアロジェット MAX ドライバー Speeder NX for cobra WHITE",
+    "image": "data\\raw\\00110.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000069/0000693399/0000693399_01.jpg"
+  },
+  {
+    "id": 111,
+    "brand": "29718",
+    "series": "RMX VD/X(2024)",
+    "model": "719711",
+    "year": "RMX VD／X ドライバー オリジナルカーボン TENSEI TR",
+    "image": "data\\raw\\00111.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000071/0000719711/0000719711_01.jpg"
+  },
+  {
+    "id": 112,
+    "brand": "30097",
+    "series": "ONOFF AKA(2024)",
+    "model": "734291",
+    "year": "オノフ AKA ドライバー SMOOTH KICK MP-524D",
+    "image": "data\\raw\\00112.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000073/0000734291/0000734291_01.jpg"
+  },
+  {
+    "id": 113,
+    "brand": "29716",
+    "series": "RMX VD/M(2024)",
+    "model": "719710",
+    "year": "RMX VD／M ドライバー オリジナルカーボン TENSEI TR",
+    "image": "data\\raw\\00113.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000071/0000719710/0000719710_01.jpg"
+  },
+  {
+    "id": 114,
+    "brand": "27379",
+    "series": "egg EXTREME",
+    "model": "612238",
+    "year": "egg EXTREME ドライバー eggEXTREMEオリジナルカーボン",
+    "image": "data\\raw\\00114.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000061/0000612238/0000612238_01.jpg"
+  },
+  {
+    "id": 115,
+    "brand": "31275",
+    "series": "BX2 HT",
+    "model": "793456",
+    "year": "BX2 HT ドライバー Diamana BS50II",
+    "image": "data\\raw\\00115.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000079/0000793456/0000793456_01.jpg"
+  },
+  {
+    "id": 116,
+    "brand": "27603",
+    "series": "TOUR WORLD GS",
+    "model": "632378",
+    "year": "ツアーワールド GSドライバー SPEED TUNED 48",
+    "image": "data\\raw\\00116.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000063/0000632378/0000632378_01.jpg"
+  },
+  {
+    "id": 117,
+    "brand": "26472",
+    "series": "inpres UD+2(2019)",
+    "model": "623473",
+    "year": "21 インプレス UD+2 ドライバー Air Speeder for YAMAHA M421d",
+    "image": "data\\raw\\00117.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000062/0000623473/0000623473_01.jpg"
+  },
+  {
+    "id": 118,
+    "brand": "28295",
+    "series": "LTDX LS",
+    "model": "663017",
+    "year": "LTDx LS ドライバー Speeder NX for Cobra",
+    "image": "data\\raw\\00118.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000066/0000663017/0000663017_01.jpg"
+  },
+  {
+    "id": 119,
+    "brand": "28746",
+    "series": "RS JUST F",
+    "model": "673926",
+    "year": "RS JUST F ドライバー Tour AD FOR PRGR",
+    "image": "data\\raw\\00119.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000067/0000673926/0000673926_01.jpg"
+  },
+  {
+    "id": 120,
+    "brand": "27526",
+    "series": "G425 MAX",
+    "model": "672970",
+    "year": "G425 MAX ドライバー PING TOUR 173-55／65／75",
+    "image": "data\\raw\\00120.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000067/0000672970/0000672970_01.jpg"
+  },
+  {
+    "id": 121,
+    "brand": "27952",
+    "series": "B2",
+    "model": "649403",
+    "year": "B2 ドライバー Diamana BS50",
+    "image": "data\\raw\\00121.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000064/0000649403/0000649403_01.jpg"
+  },
+  {
+    "id": 122,
+    "brand": "28324",
+    "series": "ONOFF AKA(2022)",
+    "model": "665008",
+    "year": "オノフ 赤 ドライバー SMOOTH KICK MP-522D",
+    "image": "data\\raw\\00122.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000066/0000665008/0000665008_01.jpg"
+  },
+  {
+    "id": 123,
+    "brand": "29328",
+    "series": "LS(2023)",
+    "model": "703357",
+    "year": "23 LS ドライバー SPEEDER NX FOR PRGR",
+    "image": "data\\raw\\00123.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000070/0000703357/0000703357_01.jpg"
+  },
+  {
+    "id": 124,
+    "brand": "28067",
+    "series": "RMX VD59",
+    "model": "653466",
+    "year": "RMX VD59 ドライバー Diamana YR",
+    "image": "data\\raw\\00124.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000065/0000653466/0000653466_01.jpg"
+  },
+  {
+    "id": 125,
+    "brand": "29148",
+    "series": "AEROJET LS",
+    "model": "693402",
+    "year": "エアロジェット LS ドライバー オリジナル Tour AD for Cobra BLUE",
+    "image": "data\\raw\\00125.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000069/0000693402/0000693402_01.jpg"
+  },
+  {
+    "id": 126,
+    "brand": "30174",
+    "series": "B3 MAXD(2024)",
+    "model": "740429",
+    "year": "B3 MAXD ドライバー VANQUISH BS40 for MAX",
+    "image": "data\\raw\\00126.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000074/0000740429/0000740429_01.jpg"
+  },
+  {
+    "id": 127,
+    "brand": "28932",
+    "series": "BERES NX",
+    "model": "685423",
+    "year": "ベレス NX ドライバー VIZARD for NX 45",
+    "image": "data\\raw\\00127.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000068/0000685423/0000685423_01.jpg"
+  },
+  {
+    "id": 128,
+    "brand": "28106",
+    "series": "XXIO(2022)ﾌﾞﾙｰ",
+    "model": "654730",
+    "year": "ゼクシオ 12 ドライバー(ブルー) MP1200Lカーボン",
+    "image": "data\\raw\\00128.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000065/0000654730/0000654730_01.jpg"
+  },
+  {
+    "id": 129,
+    "brand": "27585",
+    "series": "TSi2",
+    "model": "628654",
+    "year": "TSi2 ドライバー TOUR AD DI-5／6",
+    "image": "data\\raw\\00129.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000062/0000628654/0000628654_01.jpg"
+  },
+  {
+    "id": 130,
+    "brand": "27586",
+    "series": "TSi3",
+    "model": "628657",
+    "year": "TSi3 ドライバー TOUR AD DI-5／6",
+    "image": "data\\raw\\00130.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000062/0000628657/0000628657_01.jpg"
+  },
+  {
+    "id": 131,
+    "brand": "30596",
+    "series": "inpres DRIVE STAR TypeS(2025)",
+    "model": "754231",
+    "year": "25 インプレス DRIVE STAR TypeS ドライバー SPEEDER NX for Yamaha M425d",
+    "image": "data\\raw\\00131.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000075/0000754231/0000754231_01.jpg"
+  },
+  {
+    "id": 132,
+    "brand": "27171",
+    "series": "UFO BY POWER TORNADO",
+    "model": "641629",
+    "year": "UFO by POWER TORNADO ドライバー Falcon Shaft for DD",
+    "image": "data\\raw\\00132.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000064/0000641629/0000641629_01.jpg"
+  },
+  {
+    "id": 133,
+    "brand": "28870",
+    "series": "TSR4",
+    "model": "682378",
+    "year": "TSR4 ドライバー TSP311 65",
+    "image": "data\\raw\\00133.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000068/0000682378/0000682378_01.jpg"
+  },
+  {
+    "id": 134,
+    "brand": "27525",
+    "series": "G425 LST",
+    "model": "623008",
+    "year": "G425 LST ドライバー PING TOUR 173-55／65／75 ARCCOS GP装着モデル",
+    "image": "data\\raw\\00134.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000062/0000623008/0000623008_01.jpg"
+  },
+  {
+    "id": 135,
+    "brand": "27793",
+    "series": "EPIC MAX FAST",
+    "model": "643809",
+    "year": "エピック MAX ファスト ドライバー ELDIO 40 for Callaway",
+    "image": "data\\raw\\00135.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000064/0000643809/0000643809_01.jpg"
+  },
+  {
+    "id": 136,
+    "brand": "30276",
+    "series": "RSX F(2024)",
+    "model": "748141",
+    "year": "RSX F ドライバー Tour AD FOR PRGR",
+    "image": "data\\raw\\00136.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000074/0000748141/0000748141_01.jpg"
+  },
+  {
+    "id": 137,
+    "brand": "27549",
+    "series": "SRIXON ZX5",
+    "model": "625108",
+    "year": "スリクソン ZX5 ドライバー Diamana ZX 50",
+    "image": "data\\raw\\00137.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000062/0000625108/0000625108_01.jpg"
+  },
+  {
+    "id": 138,
+    "brand": "27478",
+    "series": "RS5",
+    "model": "617148",
+    "year": "RS5 ドライバー Diamana FOR PRGR",
+    "image": "data\\raw\\00138.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000061/0000617148/0000617148_01.jpg"
+  },
+  {
+    "id": 139,
+    "brand": "28312",
+    "series": "EZONE GT 450(2022)",
+    "model": "662855",
+    "year": "EZONE GT 450 ドライバー RK-03GT",
+    "image": "data\\raw\\00139.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000066/0000662855/0000662855_01.jpg"
+  },
+  {
+    "id": 140,
+    "brand": "30864",
+    "series": "Qi35 LS",
+    "model": "769270",
+    "year": "Qi35 LS ドライバー Diamana BLACK TM60",
+    "image": "data\\raw\\00140.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000076/0000769270/0000769270_01.jpg"
+  },
+  {
+    "id": 141,
+    "brand": "27203",
+    "series": "XXIO(2020)ﾎﾞﾙﾄﾞｰ",
+    "model": "599174",
+    "year": "ゼクシオ ドライバー(ボルドー／グリップ：WEIGHT PLUSフルラバー) MP1100Lカーボン",
+    "image": "data\\raw\\00141.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000059/0000599174/0000599174_01.jpg"
+  },
+  {
+    "id": 142,
+    "brand": "28068",
+    "series": "RMX VD",
+    "model": "706337",
+    "year": "RMX VD ドライバー SPEEDER NX50",
+    "image": "data\\raw\\00142.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000070/0000706337/0000706337_01.jpg"
+  },
+  {
+    "id": 143,
+    "brand": "29076",
+    "series": "TSR2(2023)",
+    "model": "695254",
+    "year": "TSR2 ドライバー TENSEI AV BLUE 55",
+    "image": "data\\raw\\00143.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000069/0000695254/0000695254_01.jpg"
+  },
+  {
+    "id": 144,
+    "brand": "27527",
+    "series": "G425 SFT",
+    "model": "672978",
+    "year": "G425 SFT ドライバー ALTA J CB SLATE",
+    "image": "data\\raw\\00144.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000067/0000672978/0000672978_01.jpg"
+  },
+  {
+    "id": 145,
+    "brand": "27479",
+    "series": "RS5+",
+    "model": "617155",
+    "year": "RS5 +(プラス) ドライバー Speeder Evolution for PRGR",
+    "image": "data\\raw\\00145.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000061/0000617155/0000617155_01.jpg"
+  },
+  {
+    "id": 146,
+    "brand": "29717",
+    "series": "RMX VD/R(2024)",
+    "model": "719705",
+    "year": "RMX VD／R ドライバー SPEEDER NX BLACK 50",
+    "image": "data\\raw\\00146.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000071/0000719705/0000719705_01.jpg"
+  },
+  {
+    "id": 147,
+    "brand": "28269",
+    "series": "STEALTH PLUS",
+    "model": "658939",
+    "year": "ステルス プラス ドライバー TENSEI SILVER TM50",
+    "image": "data\\raw\\00147.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000065/0000658939/0000658939_01.jpg"
+  },
+  {
+    "id": 148,
+    "brand": "29961",
+    "series": "Qi10 LS",
+    "model": "730778",
+    "year": "Qi10 LS ドライバー SPEEDER NX BLACK 60",
+    "image": "data\\raw\\00148.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000073/0000730778/0000730778_01.jpg"
+  },
+  {
+    "id": 149,
+    "brand": "27756",
+    "series": "LS(2021)",
+    "model": "643105",
+    "year": "LS ドライバー Speeder Evolution for PRGR",
+    "image": "data\\raw\\00149.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000064/0000643105/0000643105_01.jpg"
+  },
+  {
+    "id": 150,
+    "brand": "27316",
+    "series": "ONOFF AKA(2020)",
+    "model": "607616",
+    "year": "オノフ 赤 ドライバー SMOOTH KICK MP-520D",
+    "image": "data\\raw\\00150.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000060/0000607616/0000607616_01.jpg"
+  },
+  {
+    "id": 151,
+    "brand": "29077",
+    "series": "TSR3(2023)",
+    "model": "695255",
+    "year": "TSR3 ドライバー TENSEI AV BLUE 55",
+    "image": "data\\raw\\00151.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000069/0000695255/0000695255_01.jpg"
+  },
+  {
+    "id": 152,
+    "brand": "29138",
+    "series": "XXIO PRIME(2023)",
+    "model": "689781",
+    "year": "ゼクシオ プライム12 ドライバー ゼクシオプライム SP-1200",
+    "image": "data\\raw\\00152.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000068/0000689781/0000689781_01.jpg"
+  },
+  {
+    "id": 153,
+    "brand": "30127",
+    "series": "Qi10 MAX LITE",
+    "model": "742935",
+    "year": "Qi10 MAX LITE ドライバー SPEEDER NX BLUE for TM",
+    "image": "data\\raw\\00153.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000074/0000742935/0000742935_01.jpg"
+  },
+  {
+    "id": 154,
+    "brand": "27204",
+    "series": "XXIO X(2020)",
+    "model": "599171",
+    "year": "ゼクシオ エックス ドライバー Miyazaki AX-1",
+    "image": "data\\raw\\00154.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000059/0000599171/0000599171_01.jpg"
+  },
+  {
+    "id": 155,
+    "brand": "31392",
+    "series": "ELYTE MINI NIGHT EDITION",
+    "model": "792870",
+    "year": "エリート MINI ドライバー Night Edition TENSEI GREEN 60 for Callaway",
+    "image": "data\\raw\\00155.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000079/0000792870/0000792870_01.jpg"
+  },
+  {
+    "id": 156,
+    "brand": "29593",
+    "series": "ONOFF KURO(2023)",
+    "model": "714118",
+    "year": "オノフ KURO ドライバー ONOFF CBT：624D",
+    "image": "data\\raw\\00156.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000071/0000714118/0000714118_01.jpg"
+  },
+  {
+    "id": 157,
+    "brand": "28354",
+    "series": "ST-X220",
+    "model": "662826",
+    "year": "ST-X220 ドライバー Tour AD GM D",
+    "image": "data\\raw\\00157.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000066/0000662826/0000662826_01.jpg"
+  },
+  {
+    "id": 158,
+    "brand": "28105",
+    "series": "XXIO(2022)ﾚｯﾄﾞ",
+    "model": "654726",
+    "year": "ゼクシオ 12 ドライバー(レッド) MP1200カーボン",
+    "image": "data\\raw\\00158.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000065/0000654726/0000654726_01.jpg"
+  },
+  {
+    "id": 159,
+    "brand": "28383",
+    "series": "SUPER egg(2022) 高反発ﾓﾃﾞﾙ",
+    "model": "734710",
+    "year": "SUPER egg evolution ドライバー SUPER egg evolution 高反発モデル",
+    "image": "data\\raw\\00159.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000073/0000734710/0000734710_01.jpg"
+  },
+  {
+    "id": 160,
+    "brand": "27362",
+    "series": "ST200X",
+    "model": "605777",
+    "year": "ST200X ドライバー 20 MFUSION D",
+    "image": "data\\raw\\00160.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000060/0000605777/0000605777_01.jpg"
+  },
+  {
+    "id": 161,
+    "brand": "28931",
+    "series": "SHUTTLE(2022)",
+    "model": "685498",
+    "year": "シャトル ドライバー 光沢仕上げ IMPACT FIT m230(ブルー)",
+    "image": "data\\raw\\00161.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000068/0000685498/0000685498_01.jpg"
+  },
+  {
+    "id": 162,
+    "brand": "27951",
+    "series": "B1",
+    "model": "649402",
+    "year": "B1 ドライバー Tour AD BS-6",
+    "image": "data\\raw\\00162.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000064/0000649402/0000649402_01.jpg"
+  },
+  {
+    "id": 163,
+    "brand": "30597",
+    "series": "inpres DRIVE STAR(2025)",
+    "model": "754233",
+    "year": "25 インプレス DRIVE STAR ドライバー ELDIO for Yamaha TM325d",
+    "image": "data\\raw\\00163.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000075/0000754233/0000754233_01.jpg"
+  },
+  {
+    "id": 164,
+    "brand": "29917",
+    "series": "PARADYM Ai SMOKEﾄﾘﾌﾟﾙﾀﾞｲﾔ",
+    "model": "730196",
+    "year": "パラダイム Ai SMOKE トリプルダイヤモンド ドライバー TENSEI 60 for Callaway",
+    "image": "data\\raw\\00164.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000073/0000730196/0000730196_01.jpg"
+  },
+  {
+    "id": 165,
+    "brand": "30071",
+    "series": "ST-MAX 230",
+    "model": "736484",
+    "year": "ST-MAX 230 ドライバー ブラックIPミラー＆ショット仕上げ Tour AD GM D",
+    "image": "data\\raw\\00165.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000073/0000736484/0000736484_01.jpg"
+  },
+  {
+    "id": 166,
+    "brand": "28107",
+    "series": "XXIO(2022)ﾎﾞﾙﾄﾞｰ",
+    "model": "654732",
+    "year": "ゼクシオ 12 ドライバー(ネイビー) MP1200カーボン",
+    "image": "data\\raw\\00166.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000065/0000654732/0000654732_01.jpg"
+  },
+  {
+    "id": 167,
+    "brand": "31220",
+    "series": "ELYTE NIGHT EDITION",
+    "model": "792868",
+    "year": "エリート ドライバー Night Edition VENTUS GREEN 5 for Callaway",
+    "image": "data\\raw\\00167.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000079/0000792868/0000792868_01.jpg"
+  },
+  {
+    "id": 168,
+    "brand": "27143",
+    "series": "RMX 120",
+    "model": "667782",
+    "year": "RMX 120 ドライバー Diamana RF60",
+    "image": "data\\raw\\00168.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000066/0000667782/0000667782_01.jpg"
+  },
+  {
+    "id": 169,
+    "brand": "27153",
+    "series": "egg 5500(2019)",
+    "model": "592259",
+    "year": "NEW egg 5500(ゴーゴー)ドライバー エッグオリジナル",
+    "image": "data\\raw\\00169.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000059/0000592259/0000592259_01.jpg"
+  },
+  {
+    "id": 170,
+    "brand": "27154",
+    "series": "egg 5500 impact(2019)",
+    "model": "592261",
+    "year": "NEW egg 5500(ゴーゴー)impactドライバー エッグオリジナル impact",
+    "image": "data\\raw\\00170.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000059/0000592261/0000592261_01.jpg"
+  },
+  {
+    "id": 171,
+    "brand": "29145",
+    "series": "ST-X230",
+    "model": "698012",
+    "year": "ST-X230 ドライバー Tour AD GM D",
+    "image": "data\\raw\\00171.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000069/0000698012/0000698012_01.jpg"
+  },
+  {
+    "id": 172,
+    "brand": "28187",
+    "series": "BERES BLACK",
+    "model": "655648",
+    "year": "ベレス BLACK ドライバー ARMRQ MXBK",
+    "image": "data\\raw\\00172.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000065/0000655648/0000655648_01.jpg"
+  },
+  {
+    "id": 173,
+    "brand": "31221",
+    "series": "ELYTE X NIGHT EDITION",
+    "model": "792869",
+    "year": "エリート X ドライバー Night Edition VENTUS GREEN 5 for Callaway",
+    "image": "data\\raw\\00173.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000079/0000792869/0000792869_01.jpg"
+  },
+  {
+    "id": 174,
+    "brand": "30114",
+    "series": "UFO by POWER TORNADOAIRBlueD",
+    "model": "736478",
+    "year": "UFO by POWER TORNADO AIR Blue DD ドライバー ATTAS EZ 370",
+    "image": "data\\raw\\00174.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000073/0000736478/0000736478_01.jpg"
+  },
+  {
+    "id": 175,
+    "brand": "27696",
+    "series": "KING RAD SPEED",
+    "model": "637362",
+    "year": "キング RAD SPEED ドライバー Speeder Evolution for RADSPEED",
+    "image": "data\\raw\\00175.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000063/0000637362/0000637362_01.jpg"
+  },
+  {
+    "id": 176,
+    "brand": "27550",
+    "series": "SRIXON ZX7",
+    "model": "625104",
+    "year": "スリクソン ZX7 ドライバー Diamana ZX 60",
+    "image": "data\\raw\\00176.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000062/0000625104/0000625104_01.jpg"
+  },
+  {
+    "id": 177,
+    "brand": "28325",
+    "series": "B-LD",
+    "model": "666488",
+    "year": "B-LD ドライバー AiR Speeder BS-LD for Wood",
+    "image": "data\\raw\\00177.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000066/0000666488/0000666488_01.jpg"
+  },
+  {
+    "id": 178,
+    "brand": "27701",
+    "series": "KING RAD SPEED XB",
+    "model": "637370",
+    "year": "キング RAD SPEED XB ドライバー Tour AD HD-6",
+    "image": "data\\raw\\00178.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000063/0000637370/0000637370_01.jpg"
+  },
+  {
+    "id": 179,
+    "brand": "27610",
+    "series": "XXIO PRIME(2021)",
+    "model": "635306",
+    "year": "ゼクシオ プライム11 ドライバー ゼクシオプライム SP-1100",
+    "image": "data\\raw\\00179.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000063/0000635306/0000635306_01.jpg"
+  },
+  {
+    "id": 180,
+    "brand": "28029",
+    "series": "ONOFF KURO(2021)",
+    "model": "649481",
+    "year": "オノフ KURO ドライバー ONOFF CBT 622D",
+    "image": "data\\raw\\00180.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000064/0000649481/0000649481_01.jpg"
+  },
+  {
+    "id": 181,
+    "brand": "27477",
+    "series": "RS F5",
+    "model": "617141",
+    "year": "RS F5 ドライバー Tour AD FOR PRGR",
+    "image": "data\\raw\\00181.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000061/0000617141/0000617141_01.jpg"
+  },
+  {
+    "id": 182,
+    "brand": "29125",
+    "series": "Royal EZONE(2023)",
+    "model": "711135",
+    "year": "23 Royal EZONE ドライバー RX-06RE",
+    "image": "data\\raw\\00182.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000071/0000711135/0000711135_01.jpg"
+  },
+  {
+    "id": 183,
+    "brand": "28910",
+    "series": "TOUR WORLD TW757 TYPE-D PLUS",
+    "model": "683219",
+    "year": "ツアーワールド TW757 TYPE-D PLUS ドライバー VIZARD for TW757 45",
+    "image": "data\\raw\\00183.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000068/0000683219/0000683219_01.jpg"
+  },
+  {
+    "id": 184,
+    "brand": "27823",
+    "series": "TOUR WORLD GS PROTOTYPE-1",
+    "model": "645729",
+    "year": "ツアーワールド GS460 PROTOTYPE-1 ドライバー VIZARD FZ-5／6 S",
+    "image": "data\\raw\\00184.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000064/0000645729/0000645729_01.jpg"
+  },
+  {
+    "id": 185,
+    "brand": "29081",
+    "series": "STEALTH 2 PLUS",
+    "model": "693448",
+    "year": "ステルス2 PLUS ドライバー Diamana TM50",
+    "image": "data\\raw\\00185.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000069/0000693448/0000693448_01.jpg"
+  },
+  {
+    "id": 186,
+    "brand": "28797",
+    "series": "MAJESTY PRESTIGIO 12",
+    "model": "678790",
+    "year": "マジェスティ プレステジオ トゥエルブ ドライバー MAJESTY LV750",
+    "image": "data\\raw\\00186.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000067/0000678790/0000678790_01.jpg"
+  },
+  {
+    "id": 187,
+    "brand": "30734",
+    "series": "TOUR WORLD TW767",
+    "model": "763413",
+    "year": "ツアーワールド TW767 ドライバー VIZARD EZ-C",
+    "image": "data\\raw\\00187.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000076/0000763413/0000763413_01.jpg"
+  },
+  {
+    "id": 188,
+    "brand": "27361",
+    "series": "ST200",
+    "model": "605772",
+    "year": "ST200 ドライバー GM-200 D",
+    "image": "data\\raw\\00188.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000060/0000605772/0000605772_01.jpg"
+  },
+  {
+    "id": 189,
+    "brand": "28186",
+    "series": "BERES AIZU",
+    "model": "655646",
+    "year": "ベレス AIZU ドライバー ARMRQ MX 3S",
+    "image": "data\\raw\\00189.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000065/0000655646/0000655646_01.jpg"
+  },
+  {
+    "id": 190,
+    "brand": "27113",
+    "series": "G Le2",
+    "model": "590278",
+    "year": "GLe2 ドライバー ULT240 J",
+    "image": "data\\raw\\00190.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000059/0000590278/0000590278_01.jpg"
+  },
+  {
+    "id": 191,
+    "brand": "28311",
+    "series": "EZONE GT 425(2022)",
+    "model": "662854",
+    "year": "EZONE GT 425 ドライバー RK-03GT",
+    "image": "data\\raw\\00191.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000066/0000662854/0000662854_01.jpg"
+  },
+  {
+    "id": 192,
+    "brand": "28328",
+    "series": "TOUR WORLD TW757 TYPE-D",
+    "model": "664768",
+    "year": "ツアーワールド TW757 TYPE-D ドライバー VIZARD MA-5／6",
+    "image": "data\\raw\\00192.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000066/0000664768/0000664768_01.jpg"
+  },
+  {
+    "id": 193,
+    "brand": "29441",
+    "series": "PARADYM NIGHT MODE LIMITED ED",
+    "model": "709830",
+    "year": "パラダイム ナイトモード リミテッド・エディション ドライバー HZRDUS Gen 4 HZRDUS ALL BLK 60",
+    "image": "data\\raw\\00193.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000070/0000709830/0000709830_01.jpg"
+  },
+  {
+    "id": 194,
+    "brand": "22541",
+    "series": "MP TYPE-2",
+    "model": "521565",
+    "year": "MP TYPE-2ドライバー Tour AD J-D1(ミズノオリジナル)",
+    "image": "data\\raw\\00194.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000052/0000521565/0000521565_01.jpg"
+  },
+  {
+    "id": 195,
+    "brand": "30176",
+    "series": "B-LD(2024)",
+    "model": "740430",
+    "year": "BｰLD ドライバー SPEEDER NX BS40LDw",
+    "image": "data\\raw\\00195.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000074/0000740430/0000740430_01.jpg"
+  },
+  {
+    "id": 196,
+    "brand": "27270",
+    "series": "MAVRIK",
+    "model": "604967",
+    "year": "マーベリック ドライバー Tour AD XC-6",
+    "image": "data\\raw\\00196.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000060/0000604967/0000604967_01.jpg"
+  },
+  {
+    "id": 197,
+    "brand": "27322",
+    "series": "TOUR WORLD TR20 440",
+    "model": "611857",
+    "year": "ツアーワールド TR20 440 ドライバー VIZARD FD-5／6",
+    "image": "data\\raw\\00197.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000061/0000611857/0000611857_01.jpg"
+  },
+  {
+    "id": 198,
+    "brand": "28389",
+    "series": "LTDX BK LIMITED",
+    "model": "669900",
+    "year": "LTDx ブラック リミテッドエディション ドライバー LIN-Q White 60",
+    "image": "data\\raw\\00198.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000066/0000669900/0000669900_01.jpg"
+  },
+  {
+    "id": 199,
+    "brand": "28390",
+    "series": "LTDX LS BK LIMITED",
+    "model": "669899",
+    "year": "LTDx LS ブラック リミテッドエディション ドライバー LIN-Q White 60",
+    "image": "data\\raw\\00199.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000066/0000669899/0000669899_01.jpg"
+  },
+  {
+    "id": 200,
+    "brand": "28391",
+    "series": "LTDX LIMITED PTC",
+    "model": "669902",
+    "year": "LTDx リミテッドエディション パームツリークルー ドライバー HZRDUS RDX Smoke",
+    "image": "data\\raw\\00200.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000066/0000669902/0000669902_01.jpg"
+  },
+  {
+    "id": 201,
+    "brand": "28329",
+    "series": "TOUR WORLD TW757 TYPE-S",
+    "model": "664770",
+    "year": "ツアーワールド TW757 TYPE-S ドライバー VIZARD for TW757",
+    "image": "data\\raw\\00201.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000066/0000664770/0000664770_01.jpg"
+  },
+  {
+    "id": 202,
+    "brand": "31020",
+    "series": "DS-ADAPT X SEASON OPENER",
+    "model": "781533",
+    "year": "シーズンオープナー DS-ADAPT X ドライバー HZRDUS SO 6.0",
+    "image": "data\\raw\\00202.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000078/0000781533/0000781533_01.jpg"
+  },
+  {
+    "id": 203,
+    "brand": "30999",
+    "series": "MAJESTY ROYAL(2025)",
+    "model": "779090",
+    "year": "マジェスティ ロイヤル ドライバー MAJESTY Royale LV560",
+    "image": "data\\raw\\00203.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000077/0000779090/0000779090_01.jpg"
+  },
+  {
+    "id": 204,
+    "brand": "30182",
+    "series": "EZONE GT TYPE-S(2024)",
+    "model": "744230",
+    "year": "EZONE GT TYPE-S ドライバー RK-04GT",
+    "image": "data\\raw\\00204.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000074/0000744230/0000744230_01.jpg"
+  },
+  {
+    "id": 205,
+    "brand": "30181",
+    "series": "EZONE GT TYPE-D(2024)",
+    "model": "744231",
+    "year": "EZONE GT TYPE-D ドライバー RK-04GT",
+    "image": "data\\raw\\00205.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000074/0000744231/0000744231_01.jpg"
+  },
+  {
+    "id": 206,
+    "brand": "31018",
+    "series": "DS-ADAPT LS VOLITION",
+    "model": "781534",
+    "year": "ボリション DS-ADAPT LS ドライバー TENSEI 1K BLACK 65 LIMITED",
+    "image": "data\\raw\\00206.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000078/0000781534/0000781534_01.jpg"
+  },
+  {
+    "id": 207,
+    "brand": "31017",
+    "series": "DS-ADAPT LS SEASON OPENER",
+    "model": "781532",
+    "year": "シーズンオープナー DS-ADAPT LS ドライバー HZRDUS SO 6.0",
+    "image": "data\\raw\\00207.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000078/0000781532/0000781532_01.jpg"
+  },
+  {
+    "id": 208,
+    "brand": "28356",
+    "series": "ST-Z220",
+    "model": "662825",
+    "year": "ST-Z220 ドライバー Diamana MM D",
+    "image": "data\\raw\\00208.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000066/0000662825/0000662825_01.jpg"
+  },
+  {
+    "id": 209,
+    "brand": "30943",
+    "series": "ONOFF LADY(2025)",
+    "model": "773711",
+    "year": "オノフ レディ ドライバー SMOOTH KICK LP-425D パープル",
+    "image": "data\\raw\\00209.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000077/0000773711/0000773711_01.jpg"
+  },
+  {
+    "id": 210,
+    "brand": "29066",
+    "series": "MAJESTY ROYALE(2023)",
+    "model": "760081",
+    "year": "マジェスティ ロイヤル ドライバー MAJESTY LV550",
+    "image": "data\\raw\\00210.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000076/0000760081/0000760081_01.jpg"
+  },
+  {
+    "id": 211,
+    "brand": "23593",
+    "series": "SUPERMAN EG00VI HR",
+    "model": "556774",
+    "year": "スーパーマン EG00VI HR ドライバー BIG BLUE V6 超高反発モデル",
+    "image": "data\\raw\\00211.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000055/0000556774/0000556774_01.jpg"
+  },
+  {
+    "id": 212,
+    "brand": "27032",
+    "series": "SUPER EGG 480(2019)",
+    "model": "588275",
+    "year": "NEW SUPER egg 480 ドライバー NEW SUPER egg オリジナルシャフト 高反発モデル",
+    "image": "data\\raw\\00212.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000058/0000588275/0000588275_01.jpg"
+  },
+  {
+    "id": 213,
+    "brand": "29104",
+    "series": "ONOFF LADY",
+    "model": "693668",
+    "year": "オノフ レディ ドライバー SMOOTH KICK LP-423D パープル",
+    "image": "data\\raw\\00213.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000069/0000693668/0000693668_01.jpg"
+  },
+  {
+    "id": 214,
+    "brand": "27238",
+    "series": "BERES 3S",
+    "model": "734722",
+    "year": "ベレス 09 3S ドライバー ARMRQ FX 3S",
+    "image": "data\\raw\\00214.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000073/0000734722/0000734722_01.jpg"
+  },
+  {
+    "id": 215,
+    "brand": "31273",
+    "series": "BX1 LS",
+    "model": "797693",
+    "year": "BX1 LS ドライバー TENSEI PRO BLACK 1K CORE 60",
+    "image": "data\\raw\\00215.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000079/0000797693/0000797693_01.jpg"
+  },
+  {
+    "id": 216,
+    "brand": "26669",
+    "series": "G410 LST",
+    "model": "642380",
+    "year": "G410 LST ドライバー Diamana D-LIMITED 60",
+    "image": "data\\raw\\00216.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000064/0000642380/0000642380_01.jpg"
+  },
+  {
+    "id": 217,
+    "brand": "27824",
+    "series": "TOUR WORLD GS PROTOTYPE-2",
+    "model": "645730",
+    "year": "ツアーワールド GS460 PROTOTYPE-2 ドライバー VIZARD FZ-5／6 S",
+    "image": "data\\raw\\00217.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000064/0000645730/0000645730_01.jpg"
+  },
+  {
+    "id": 218,
+    "brand": "27650",
+    "series": "MAJESTY ROYALE(2021)",
+    "model": "640001",
+    "year": "ロイヤル ドライバー (MJライト4 35-4グリップ) MAJESTY LV540",
+    "image": "data\\raw\\00218.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000064/0000640001/0000640001_01.jpg"
+  },
+  {
+    "id": 219,
+    "brand": "26616",
+    "series": "HIHO",
+    "model": "573049",
+    "year": "飛砲 ドライバー ZERO SPEEDER",
+    "image": "data\\raw\\00219.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000057/0000573049/0000573049_01.jpg"
+  },
+  {
+    "id": 220,
+    "brand": "29787",
+    "series": "PXG 0311 XF GEN6",
+    "model": "726484",
+    "year": "PXG 0311 XF GEN6 ドライバー SPEEDER NX BLACK 40／50／60／70",
+    "image": "data\\raw\\00220.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000072/0000726484/0000726484_01.jpg"
+  },
+  {
+    "id": 221,
+    "brand": "29786",
+    "series": "PXG 0311 GEN6",
+    "model": "726480",
+    "year": "PXG 0311 GEN6 ドライバー SPEEDER NX BLACK 40／50／60／70",
+    "image": "data\\raw\\00221.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000072/0000726480/0000726480_01.jpg"
+  },
+  {
+    "id": 222,
+    "brand": "26979",
+    "series": "ENA Magic Wand ES(2018)",
+    "model": "586368",
+    "year": "マジックワンドES ドライバー ZERO Speeder 高反発モデル",
+    "image": "data\\raw\\00222.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000058/0000586368/0000586368_01.jpg"
+  },
+  {
+    "id": 223,
+    "brand": "27695",
+    "series": "KING RAD SPEED XD",
+    "model": "637373",
+    "year": "キング RAD SPEED XD ドライバー Speeder Evolution for RADSPEED",
+    "image": "data\\raw\\00223.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000063/0000637373/0000637373_01.jpg"
+  },
+  {
+    "id": 224,
+    "brand": "31063",
+    "series": "VOLTIO NINJA ﾌﾟﾚﾐｱﾑｶｰﾎﾞﾝ II Hi",
+    "model": "783983",
+    "year": "VOLTIO NINJA プレミアムカーボン II Hi ドライバー TOUR AD VG-02 高反発モデル",
+    "image": "data\\raw\\00224.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000078/0000783983/0000783983_01.jpg"
+  },
+  {
+    "id": 225,
+    "brand": "27273",
+    "series": "MAVRIK SUB ZERO",
+    "model": "604972",
+    "year": "マーベリック サブゼロ ドライバー Tour AD XC-6",
+    "image": "data\\raw\\00225.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000060/0000604972/0000604972_01.jpg"
+  },
+  {
+    "id": 226,
+    "brand": "30784",
+    "series": "PARALLAX 305MD",
+    "model": "768163",
+    "year": "パララックス 305MD ミニドライバー オリジナルカーボン",
+    "image": "data\\raw\\00226.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000076/0000768163/0000768163_01.jpg"
+  },
+  {
+    "id": 227,
+    "brand": "28962",
+    "series": "PXG 0311 XF GEN5",
+    "model": "696843",
+    "year": "PXG 0311 XF GEN5 ドライバー SPEEDER NX GREEN 50",
+    "image": "data\\raw\\00227.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000069/0000696843/0000696843_01.jpg"
+  },
+  {
+    "id": 228,
+    "brand": "31016",
+    "series": "DS-ADAPT LS PALM TREE CREW",
+    "model": "781530",
+    "year": "限定版 DS-ADAPT LS パームツリークルー ドライバー HZRDUS Black 60",
+    "image": "data\\raw\\00228.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000078/0000781530/0000781530_01.jpg"
+  },
+  {
+    "id": 229,
+    "brand": "28393",
+    "series": "LTDX MAX LIMITED PTC",
+    "model": "669903",
+    "year": "LTDx MAX リミテッドエディション パームツリークルー ドライバー HZRDUS RDX Smoke",
+    "image": "data\\raw\\00229.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000066/0000669903/0000669903_01.jpg"
+  },
+  {
+    "id": 230,
+    "brand": "28392",
+    "series": "LTDX MAX BK LIMITED",
+    "model": "669901",
+    "year": "LTDx MAX ブラック リミテッドエディション ドライバー LIN-Q White 60",
+    "image": "data\\raw\\00230.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000066/0000669901/0000669901_01.jpg"
+  },
+  {
+    "id": 231,
+    "brand": "27611",
+    "series": "SIM2",
+    "model": "634025",
+    "year": "SIM2 ドライバー TENSEI SILVER TM50",
+    "image": "data\\raw\\00231.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000063/0000634025/0000634025_01.jpg"
+  },
+  {
+    "id": 232,
+    "brand": "30134",
+    "series": "BERES BK(2024)",
+    "model": "734720",
+    "year": "ベレス 09 BK ドライバー ARMRQ FX BLACK",
+    "image": "data\\raw\\00232.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000073/0000734720/0000734720_01.jpg"
+  },
+  {
+    "id": 233,
+    "brand": "28415",
+    "series": "ENA Magic Wand SF ES BKIP",
+    "model": "670058",
+    "year": "マジックワンド SF ES ドライバー ブラックIP仕上げ Air Speeder 高反発モデル",
+    "image": "data\\raw\\00233.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000067/0000670058/0000670058_01.jpg"
+  },
+  {
+    "id": 234,
+    "brand": "26980",
+    "series": "ENA Magic Wand(2018)",
+    "model": "586378",
+    "year": "マジックワンド ドライバー Air Speeder",
+    "image": "data\\raw\\00234.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000058/0000586378/0000586378_01.jpg"
+  },
+  {
+    "id": 235,
+    "brand": "30735",
+    "series": "TOUR WORLD TW767 MAX",
+    "model": "763414",
+    "year": "ツアーワールド TW767 MAX ドライバー VIZARD EZ-C",
+    "image": "data\\raw\\00235.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000076/0000763414/0000763414_01.jpg"
+  },
+  {
+    "id": 236,
+    "brand": "28075",
+    "series": "ST-G 220",
+    "model": "651827",
+    "year": "ST-G220 ドライバー GM-200 D",
+    "image": "data\\raw\\00236.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000065/0000651827/0000651827_01.jpg"
+  },
+  {
+    "id": 237,
+    "brand": "28414",
+    "series": "ENA Magic Wand SF BKIP",
+    "model": "670062",
+    "year": "マジックワンド SF ドライバー ブラックIP仕上げ ENA専用 Speeder SFデザイン",
+    "image": "data\\raw\\00237.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000067/0000670062/0000670062_01.jpg"
+  },
+  {
+    "id": 238,
+    "brand": "20954",
+    "series": "IYA DO-MO",
+    "model": "488964",
+    "year": "ネバースライスウッド ドライバー マミヤ製オリジナルカーボン",
+    "image": "data\\raw\\00238.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000048/0000488964/0000488964_01.jpg"
+  },
+  {
+    "id": 239,
+    "brand": "31019",
+    "series": "DS-ADAPT X PALM TREE CREW",
+    "model": "781531",
+    "year": "限定版 DS-ADAPT X パームツリークルー ドライバー HZRDUS Black 60",
+    "image": "data\\raw\\00239.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000078/0000781531/0000781531_01.jpg"
+  },
+  {
+    "id": 240,
+    "brand": "31021",
+    "series": "DS-ADAPT X VOLITION",
+    "model": "781535",
+    "year": "ボリション DS-ADAPT X ドライバー TENSEI 1K BLACK 65 LIMITED",
+    "image": "data\\raw\\00240.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000078/0000781535/0000781535_01.jpg"
+  },
+  {
+    "id": 241,
+    "brand": "27323",
+    "series": "TOUR WORLD TR20 460",
+    "model": "611856",
+    "year": "ツアーワールド TR20 460 ドライバー VIZARD TR20-50",
+    "image": "data\\raw\\00241.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000061/0000611856/0000611856_01.jpg"
+  },
+  {
+    "id": 242,
+    "brand": "22612",
+    "series": "SWEEP(2017) PINK",
+    "model": "522464",
+    "year": "SWEEP ドライバー SWEEPオリジナルスプリング 高反発モデル",
+    "image": "data\\raw\\00242.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000052/0000522464/0000522464_01.jpg"
+  },
+  {
+    "id": 243,
+    "brand": "27691",
+    "series": "ST-Z",
+    "model": "635958",
+    "year": "ST-Z ドライバー GM-200 D",
+    "image": "data\\raw\\00243.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000063/0000635958/0000635958_01.jpg"
+  },
+  {
+    "id": 244,
+    "brand": "27690",
+    "series": "ST-X",
+    "model": "635957",
+    "year": "ST-X ドライバー 20 MFUSION D",
+    "image": "data\\raw\\00244.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000063/0000635957/0000635957_01.jpg"
+  },
+  {
+    "id": 245,
+    "brand": "27737",
+    "series": "PXG 0811 X+PROTOTYPE",
+    "model": "636196",
+    "year": "0811X+プロト ドライバー TENSEI CK Pro Orange 60",
+    "image": "data\\raw\\00245.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000063/0000636196/0000636196_01.jpg"
+  },
+  {
+    "id": 246,
+    "brand": "30183",
+    "series": "EZONE GT(2024)",
+    "model": "767444",
+    "year": "EZONE GT ドライバー RK-04GT WOMEN専用シャフト",
+    "image": "data\\raw\\00246.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000076/0000767444/0000767444_01.jpg"
+  },
+  {
+    "id": 247,
+    "brand": "27389",
+    "series": "EZONE GT 455(2020)",
+    "model": "614972",
+    "year": "EZONE GT 455 ドライバー NST002(Namd＋M40X複合)",
+    "image": "data\\raw\\00247.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000061/0000614972/0000614972_01.jpg"
+  },
+  {
+    "id": 248,
+    "brand": "23591",
+    "series": "CT-518",
+    "model": "557024",
+    "year": "CT-518 ドライバー TS-316d",
+    "image": "data\\raw\\00248.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000055/0000557024/0000557024_01.jpg"
+  },
+  {
+    "id": 249,
+    "brand": "28320",
+    "series": "EXOTICS C722",
+    "model": "668000",
+    "year": "EXOTICS C722 ドライバー VENTUS BLUE 6",
+    "image": "data\\raw\\00249.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000066/0000668000/0000668000_01.jpg"
+  },
+  {
+    "id": 250,
+    "brand": "29085",
+    "series": "BERES NX LADIES",
+    "model": "693662",
+    "year": "ベレス NX ドライバー VIZARD FOR NX 37",
+    "image": "data\\raw\\00250.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000069/0000693662/0000693662_01.jpg"
+  },
+  {
+    "id": 251,
+    "brand": "27144",
+    "series": "RMX 220",
+    "model": "590841",
+    "year": "RMX 220 ドライバーヘッド単品",
+    "image": "data\\raw\\00251.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000059/0000590841/0000590841_01.jpg"
+  },
+  {
+    "id": 252,
+    "brand": "28385",
+    "series": "SWEEP M-17",
+    "model": "669315",
+    "year": "SWEEP M17 ドライバー NEW SWEEPスプリングシャフト 高反発モデル",
+    "image": "data\\raw\\00252.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000066/0000669315/0000669315_01.jpg"
+  },
+  {
+    "id": 253,
+    "brand": "29256",
+    "series": "Fiore(2023)",
+    "model": "702729",
+    "year": "フィオーレ ドライバー FR07オリジナルカーボン",
+    "image": "data\\raw\\00253.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000070/0000702729/0000702729_01.jpg"
+  },
+  {
+    "id": 254,
+    "brand": "27658",
+    "series": "D9",
+    "model": "641895",
+    "year": "D9 ドライバー TENSEI CK Blue",
+    "image": "data\\raw\\00254.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000064/0000641895/0000641895_01.jpg"
+  },
+  {
+    "id": 255,
+    "brand": "18453",
+    "series": "HYPER BLADE ｶﾞﾝﾏ",
+    "model": "401010",
+    "year": "ハイパーブレードガンマ ドライバー ワークテックV-SPECαII",
+    "image": "data\\raw\\00255.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000040/0000401010/0000401010_01.jpg"
+  },
+  {
+    "id": 256,
+    "brand": "20616",
+    "series": "BRIDGESTONE Jr",
+    "model": "482743",
+    "year": "TYPE130 ドライバー ジュニアオリジナルカーボン",
+    "image": "data\\raw\\00256.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000048/0000482743/0000482743_01.jpg"
+  },
+  {
+    "id": 257,
+    "brand": "30167",
+    "series": "TYPE150 B-Jr",
+    "model": "743293",
+    "year": "TYPE150 B-Jr ドライバー B-Jrオリジナルカーボン BJ-W",
+    "image": "data\\raw\\00257.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000074/0000743293/0000743293_01.jpg"
+  },
+  {
+    "id": 258,
+    "brand": "26668",
+    "series": "G410 SFT",
+    "model": "573813",
+    "year": "G410 SFT ドライバー ALTA J CB RED",
+    "image": "data\\raw\\00258.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000057/0000573813/0000573813_01.jpg"
+  },
+  {
+    "id": 259,
+    "brand": "12897",
+    "series": "JUNIOR MODEL",
+    "model": "275716",
+    "year": "ジュニア ドライバー カーボン",
+    "image": "data\\raw\\00259.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000027/0000275716/0000275716_01.jpg"
+  },
+  {
+    "id": 260,
+    "brand": "30166",
+    "series": "TYPE130 B-Jr",
+    "model": "743292",
+    "year": "TYPE130 B-Jr ドライバー B-Jrオリジナルカーボン BJ-W",
+    "image": "data\\raw\\00260.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000074/0000743292/0000743292_01.jpg"
+  },
+  {
+    "id": 261,
+    "brand": "29713",
+    "series": "eRook II",
+    "model": "721775",
+    "year": "eRook II ドライバー Tour AD IZ-6",
+    "image": "data\\raw\\00261.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000072/0000721775/0000721775_01.jpg"
+  },
+  {
+    "id": 262,
+    "brand": "27275",
+    "series": "SIM",
+    "model": "604762",
+    "year": "SIM ドライバー TENSEI SILVER TM50",
+    "image": "data\\raw\\00262.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000060/0000604762/0000604762_01.jpg"
+  },
+  {
+    "id": 263,
+    "brand": "27276",
+    "series": "SIM MAX",
+    "model": "604766",
+    "year": "SIM マックス ドライバー TENSEI BLUE TM50",
+    "image": "data\\raw\\00263.jpg",
+    "source_url": "https://shop.img.golfdigest.co.jp/gdogolfshop/images/goods/000060/0000604766/0000604766_01.jpg"
+  }
+]
