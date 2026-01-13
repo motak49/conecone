@@ -1,9 +1,10 @@
 import 'dart:io';
+import 'dart:convert'; // 追加: JSONパース用
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 
 import '../../services/api_service.dart';
-import '../../models/search_result.dart';
+import '../../models/search_result.dart'; // SearchResultモデルが必要
 
 class ImageSearchScreen extends StatefulWidget {
   const ImageSearchScreen({super.key});
@@ -15,9 +16,9 @@ class ImageSearchScreen extends StatefulWidget {
 class _ImageSearchScreenState extends State<ImageSearchScreen> {
   File? _image;
   bool _loading = false;
-  List<SearchResult> _results = [];
-  
-  // ApiServiceのインスタンスを作成（本来はProviderなどで渡すのがベストですが、まずはここで生成）
+  List<SearchResult> _results = []; // ここにデータが入ると画面が更新される
+
+  // インスタンスを保持
   final ApiService _apiService = ApiService();
 
   Future<void> _pickImage() async {
@@ -28,7 +29,7 @@ class _ImageSearchScreenState extends State<ImageSearchScreen> {
 
     setState(() {
       _image = File(picked.path);
-      _results.clear();
+      _results.clear(); // 新しい画像を選んだら結果をクリア
     });
   }
 
@@ -38,20 +39,28 @@ class _ImageSearchScreenState extends State<ImageSearchScreen> {
     setState(() => _loading = true);
 
     try {
-      // staticではなくインスタンス経由で呼び出す
-      // uploadImage ではなく、リストを返す searchDriver を呼ぶ
-      String _debugText = '';
-      final api = ApiService();
-      final resultJson = await api.searchDriver(_image!);
+      // 1. APIを呼び出す (main.py の /predict へ)
+      // searchDriverが List<SearchResult> を返す作りならそのままで良いですが、
+      // ここでは汎用的に修正します。
+      final results = await _apiService.searchDriver(_image!);
       
-      setState(() => _debugText = resultJson);
+      // 2. 結果をセットする
+      setState(() {
+        _results = results;
+      });
+
     } catch (e) {
-      ScaffoldMessenger.of(context)
-          .showSnackBar(const SnackBar(content: Text('検索失敗')));
+      debugPrint(e.toString());
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text('検索エラー: $e')),
+        );
+      }
     } finally {
-      setState(() => _loading = false);
+      if (mounted) {
+        setState(() => _loading = false);
+      }
     }
-    Text(_debugText);
   }
 
   @override
@@ -62,40 +71,69 @@ class _ImageSearchScreenState extends State<ImageSearchScreen> {
         padding: const EdgeInsets.all(16),
         child: Column(
           children: [
+            // 画像プレビュー
             if (_image != null)
-              Image.file(_image!, height: 200),
-
-            const SizedBox(height: 16),
-
-            ElevatedButton(
-              onPressed: _pickImage,
-              child: const Text('画像を選択'),
-            ),
-
-            ElevatedButton(
-              onPressed: _search,
-              child: const Text('検索'),
-            ),
-
-            const SizedBox(height: 16),
-
-            if (_loading) const CircularProgressIndicator(),
-
-            Expanded(
-              child: ListView.builder(
-                itemCount: _results.length,
-                itemBuilder: (context, index) {
-                  final r = _results[index];
-                  return Card(
-                    child: ListTile(
-                      title: Text('${r.brand} ${r.model}'),
-                      subtitle:
-                          Text('類似度: ${r.similarity.toStringAsFixed(3)}'),
-                      leading: Text('#${r.rank}'),
-                    ),
-                  );
-                },
+              SizedBox(
+                height: 200,
+                child: Image.file(_image!, fit: BoxFit.contain),
+              )
+            else
+              Container(
+                height: 200,
+                color: Colors.grey[200],
+                alignment: Alignment.center,
+                child: const Text('画像が選択されていません'),
               ),
+
+            const SizedBox(height: 16),
+
+            // 操作ボタン
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              children: [
+                ElevatedButton.icon(
+                  onPressed: _loading ? null : _pickImage,
+                  icon: const Icon(Icons.photo_library),
+                  label: const Text('画像を選択'),
+                ),
+                ElevatedButton.icon(
+                  onPressed: (_image != null && !_loading) ? _search : null,
+                  icon: const Icon(Icons.search),
+                  label: _loading ? const Text('検索中...') : const Text('検索実行'),
+                ),
+              ],
+            ),
+
+            const SizedBox(height: 16),
+
+            if (_loading) const LinearProgressIndicator(),
+
+            const SizedBox(height: 16),
+
+            // 結果リスト
+            Expanded(
+              child: _results.isEmpty && !_loading
+                  ? const Center(child: Text('結果がここに表示されます'))
+                  : ListView.builder(
+                      itemCount: _results.length,
+                      itemBuilder: (context, index) {
+                        final r = _results[index];
+                        return Card(
+                          elevation: 2,
+                          margin: const EdgeInsets.only(bottom: 8),
+                          child: ListTile(
+                            leading: CircleAvatar(
+                              backgroundColor: Colors.blueAccent,
+                              child: Text('#${r.rank}', style: const TextStyle(color: Colors.white)),
+                            ),
+                            title: Text('${r.brand} ${r.model}'),
+                            subtitle: Text('類似度: ${r.similarity.toStringAsFixed(3)}'),
+                            // 必要に応じて画像を表示
+                            // trailing: Image.network(...), 
+                          ),
+                        );
+                      },
+                    ),
             ),
           ],
         ),

@@ -8,21 +8,23 @@ from lib.backend.app.config import INFERENCE_TMP_DIR
 
 app = FastAPI()
 
-
 @app.post("/predict")
 async def predict(file: UploadFile = File(...)):
     print("=== predict called ===")
     print("filename:", file.filename)
 
     # 1️⃣ 保存
-    INFERENCE_TMP_DIR.mkdir(parents=True, exist_ok=True)
-    save_path = INFERENCE_TMP_DIR / file.filename
-
+    #INFERENCE_TMP_DIR.mkdir(parents=True, exist_ok=True)
+    #save_path = INFERENCE_TMP_DIR / file.filename
+    tmp_dir = Path(INFERENCE_TMP_DIR)
+    save_path = tmp_dir / file.filename
+    
     with save_path.open("wb") as buffer:
         shutil.copyfileobj(file.file, buffer)
 
     # 2️⃣ embedding 作成
     query_embedding = create_embedding(str(save_path))
+    
 
     # 3️⃣ 類似検索
     results = search_similar(query_embedding)

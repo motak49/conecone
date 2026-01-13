@@ -1,103 +1,119 @@
+import 'dart:convert';
 import 'dart:io';
-import 'package:flutter/material.dart';
-import 'package:image_picker/image_picker.dart';
-import '../../services/api_service.dart';
+import 'package:http/http.dart' as http;
+import '../../models/activity.dart';
+import '../../models/search_result.dart';
 
-class UploadScreen extends StatefulWidget {
-  const UploadScreen({super.key});
-
-  @override
-  State<UploadScreen> createState() => _UploadScreenState();
-}
-
-class _UploadScreenState extends State<UploadScreen> {
-  File? _image;
-  String _result = '';
-  bool _loading = false;
-
-  // 【修正1】ApiServiceのインスタンスを作成
-  // staticメソッドではなくなったため、この「_apiService」を通して機能を使います
-  final ApiService _apiService = ApiService();
-
-  Future<void> _pickImage() async {
-    final picker = ImagePicker();
-    final picked = await picker.pickImage(source: ImageSource.gallery);
-
-    if (picked != null) {
-      setState(() {
-        _image = File(picked.path);
-        _result = '';
-      });
+class ApiService {
+  // Androidエミュレーター用。実機ならPCのIPアドレス(例: 192.168.1.10)に変更
+  // FastAPI (Python) 用
+  final String predictUrl = 'http://10.0.2.2:8000/predict';
+  
+  // Go/Node.js 等のバックエンド用
+  final String baseUrl = 'http://10.0.2.2:8080/api';
+  
+  // -------------------------------------------------
+  // 1. ダッシュボード用データ取得
+  // -------------------------------------------------
+  Future<Map<String, dynamic>> fetchDashboardStats() async {
+    final url = Uri.parse('$baseUrl/dashboard');
+    try {
+      final response = await http.get(url);
+      if (response.statusCode == 200) {
+        return jsonDecode(response.body);
+      } else {
+        throw Exception('Failed to load stats: ${response.statusCode}');
+      }
+    } catch (e) {
+      print('Dashboard Error: $e');
+      return {}; 
     }
   }
 
-  Future<void> _upload() async {
-    if (_image == null) return;
+  // -------------------------------------------------
+  // 2. アップロード機能 (uploadImage)
+  // ※ driver_upload_screen.dart で使用
+  // -------------------------------------------------
+  Future<String?> uploadImage(File imageFile) async {
+    final url = Uri.parse('$baseUrl/upload');
+    try {
+      final request = http.MultipartRequest('POST', url);
+      request.files.add(await http.MultipartFile.fromPath('image', imageFile.path));
+      
+      final streamedResponse = await request.send();
+      final response = await http.Response.fromStream(streamedResponse);
 
-    setState(() => _loading = true);
+      if (response.statusCode == 200) {
+        final data = jsonDecode(response.body);
+        return data['url']; 
+      } else {
+        print('Upload Failed: ${response.body}');
+        return null;
+      }
+    } catch (e) {
+      print('Upload Error: $e');
+      return null;
+    }
+  }
+
+  // -------------------------------------------------
+  // 3. 画像検索機能 (searchDriver)
+  // ※ driver_image_search_screen.dart で使用
+  // -------------------------------------------------
+  Future<List<SearchResult>> searchDriver(File imageFile) async {
+    final url = Uri.parse(predictUrl);
+
+    final request = http.MultipartRequest('POST', url);
+    // backend/main.py の引数名 "file" に合わせる
+    request.files.add(
+      await http.MultipartFile.fromPath('file', imageFile.path),
+    );
 
     try {
-      // 【修正2】クラス名(ApiService)ではなく、インスタンス(_apiService)を使う
-      final result = await _apiService.uploadImage(_image!);
+      final streamedResponse = await request.send();
+      final response = await http.Response.fromStream(streamedResponse);
 
-      // nullチェックも入れておくと安全です
-      setState(() => _result = result ?? 'アップロード完了（URLなし）');
+      if (response.statusCode == 200) {
+        // 1. JSON文字列をデコード
+        // response.body => '{"results": [{"rank":1, ...}, ...]}'
+        final Map<String, dynamic> data = jsonDecode(response.body);
+        
+        // 2. "results" キーのリストを取り出す
+        final List<dynamic> resultsJson = data['results'];
+
+        // 3. SearchResult オブジェクトのリストに変換して返す
+        return resultsJson
+            .map((json) => SearchResult.fromJson(json))
+            .toList();
+      } else {
+        throw Exception('Predict failed: ${response.statusCode} ${response.body}');
+      }
     } catch (e) {
-      setState(() => _result = 'Error: $e');
-    } finally {
-      setState(() => _loading = false);
+      throw Exception('Search Error: $e');
     }
   }
 
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(title: const Text('Upload')),
-      body: SingleChildScrollView(
-        padding: const EdgeInsets.all(16),
-        child: Column(
-          children: [
-            ElevatedButton(
-              onPressed: _pickImage,
-              child: const Text('画像を選択'),
-            ),
+  // -------------------------------------------------
+  // 4. アクティビティ投稿
+  // -------------------------------------------------
+  Future<bool> postActivity(Activity activity) async {
+    final url = Uri.parse('$baseUrl/activities');
+    try {
+      final response = await http.post(
+        url,
+        headers: {'Content-Type': 'application/json'},
+        body: jsonEncode(activity.toJson()),
+      );
 
-            const SizedBox(height: 12),
-
-            if (_image != null)
-              Column(
-                children: [
-                  Image.file(
-                    _image!,
-                    height: 200,
-                  ),
-                  const SizedBox(height: 8),
-                  Text(
-                    '選択中: ${_image!.path.split('/').last}',
-                    style: const TextStyle(fontSize: 12),
-                  ),
-                ],
-              ),
-
-            const SizedBox(height: 16),
-
-            ElevatedButton(
-              onPressed: _loading ? null : _upload,
-              child: _loading
-                  ? const CircularProgressIndicator()
-                  : const Text('アップロード'),
-            ),
-
-            const SizedBox(height: 16),
-
-            if (_result.isNotEmpty)
-              Text(
-                _result,
-                style: const TextStyle(fontSize: 14),
-              ),
-          ],
-        ),
-      ),
-    );
+      if (response.statusCode == 201) {
+        return true;
+      } else {
+        print('Post Activity Failed: ${response.body}');
+        return false;
+      }
+    } catch (e) {
+      print('Post Activity Error: $e');
+      return false;
+    }
   }
 }
