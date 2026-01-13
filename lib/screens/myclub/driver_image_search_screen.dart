@@ -1,10 +1,11 @@
 import 'dart:io';
-import 'dart:convert'; // 追加: JSONパース用
+// 追加: JSONパース用
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 
 import '../../services/api_service.dart';
 import '../../models/search_result.dart'; // SearchResultモデルが必要
+import 'camera_screen.dart';
 
 class ImageSearchScreen extends StatefulWidget {
   const ImageSearchScreen({super.key});
@@ -22,15 +23,34 @@ class _ImageSearchScreenState extends State<ImageSearchScreen> {
   final ApiService _apiService = ApiService();
 
   Future<void> _pickImage() async {
+    /*
     final picker = ImagePicker();
     final picked = await picker.pickImage(source: ImageSource.gallery);
 
-    if (picked == null) return;
+     if (resultPath == null) return;
 
     setState(() {
       _image = File(picked.path);
       _results.clear(); // 新しい画像を選んだら結果をクリア
     });
+    */
+
+    // 【修正後】自作のカメラ画面へ移動し、結果（パス）を待つ
+    final String? resultPath = await Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => const CameraScreen(),
+      ),
+    );
+
+    if (resultPath != null) {
+      setState(() {
+        _image = File(resultPath);
+        _results.clear();
+      });
+    // 撮影直後に自動検索したい場合はここで _search() を呼ぶ
+    // _search(); 
+    }
   }
 
   Future<void> _search() async {
@@ -94,7 +114,7 @@ class _ImageSearchScreenState extends State<ImageSearchScreen> {
                 ElevatedButton.icon(
                   onPressed: _loading ? null : _pickImage,
                   icon: const Icon(Icons.photo_library),
-                  label: const Text('画像を選択'),
+                  label: const Text('撮影開始'),
                 ),
                 ElevatedButton.icon(
                   onPressed: (_image != null && !_loading) ? _search : null,
