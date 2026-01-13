@@ -1,31 +1,33 @@
 from fastapi import FastAPI, UploadFile, File
-from fastapi.responses import JSONResponse
+from pathlib import Path
+import shutil
 
-from app.config import INFERENCE_TMP_DIR, TOP_K
-from app.services.embedding_service import create_embedding
-from app.services.search_service import search_similar
+from lib.backend.app.services.embedding_service import create_embedding
+from lib.backend.app.services.search_service import search_similar
+from lib.backend.app.config import INFERENCE_TMP_DIR
 
 app = FastAPI()
+
 
 @app.post("/predict")
 async def predict(file: UploadFile = File(...)):
     print("=== predict called ===")
     print("filename:", file.filename)
 
-    # ① 画像を一時保存
+    # 1️⃣ 保存
     INFERENCE_TMP_DIR.mkdir(parents=True, exist_ok=True)
-    image_path = INFERENCE_TMP_DIR / file.filename
+    save_path = INFERENCE_TMP_DIR / file.filename
 
-    with open(image_path, "wb") as f:
-        f.write(await file.read())
+    with save_path.open("wb") as buffer:
+        shutil.copyfileobj(file.file, buffer)
 
-    # ② embedding を作る
-    query_embedding = create_embedding(str(image_path))
+    # 2️⃣ embedding 作成
+    query_embedding = create_embedding(str(save_path))
 
-    # ③ 類似検索を実行（← ここが本体）
+    # 3️⃣ 類似検索
     results = search_similar(query_embedding)
 
-    # ④ JSONで返す
+    # 4️⃣ 結果を返す
     return {
         "results": results
     }

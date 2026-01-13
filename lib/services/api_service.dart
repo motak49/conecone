@@ -48,28 +48,22 @@ class ApiService {
   }
   // 2. 【重要】画像検索機能（SearchResultのリストを返す）
   // サーバー側で「画像を受け取り、類似ドライバーのリストを返すAPI」が必要です
-   Future<List<SearchResult>> searchDriver(File imageFile) async {
-    final url = Uri.parse('$baseUrl/search_driver'); // 検索用エンドポイント
-    
-    try {
-      final request = http.MultipartRequest('POST', url);
-      request.files.add(await http.MultipartFile.fromPath('image', imageFile.path));
-      
-      final streamedResponse = await request.send();
-      final response = await http.Response.fromStream(streamedResponse);
+   Future<String> searchDriver(File imageFile) async {
+    final url = Uri.parse('http://10.0.2.2:8000/predict');
 
-      if (response.statusCode == 200) {
-        // サーバーから返ってきたJSONリストをDartのオブジェクトに変換
-        final List<dynamic> jsonList = jsonDecode(response.body);
-        return jsonList.map((json) => SearchResult.fromJson(json)).toList();
-      } else {
-        print('Search Failed: ${response.statusCode}');
-        return [];
-      }
-    } catch (e) {
-      print('Search Error: $e');
-      return [];
-    }
+  final request = http.MultipartRequest('POST', url);
+  request.files.add(
+    await http.MultipartFile.fromPath('file', imageFile.path),
+  );
+
+  final streamedResponse = await request.send();
+  final response = await http.Response.fromStream(streamedResponse);
+
+  if (response.statusCode == 200) {
+    return response.body; // ← JSON文字列
+  } else {
+    throw Exception('Predict failed: ${response.statusCode}');
+  }
   }
 
   // アクティビティ（対局結果）をJSONで投稿

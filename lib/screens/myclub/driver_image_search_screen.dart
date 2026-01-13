@@ -40,15 +40,18 @@ class _ImageSearchScreenState extends State<ImageSearchScreen> {
     try {
       // staticではなくインスタンス経由で呼び出す
       // uploadImage ではなく、リストを返す searchDriver を呼ぶ
-      final results = await _apiService.searchDriver(_image!);
+      String _debugText = '';
+      final api = ApiService();
+      final resultJson = await api.searchDriver(_image!);
       
-      setState(() => _results = results);
+      setState(() => _debugText = resultJson);
     } catch (e) {
       ScaffoldMessenger.of(context)
           .showSnackBar(const SnackBar(content: Text('検索失敗')));
     } finally {
       setState(() => _loading = false);
     }
+    Text(_debugText);
   }
 
   @override
