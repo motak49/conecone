@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'score/score_home_screen.dart'; // 麻雀の画面をインポート
-import 'myclub/driver_image_search_screen.dart'; // ゴルフの画面をインポート
+import 'myclub/myclub_home_screen.dart'; // ゴルフの画面をインポート
 import 'dart:ui';
 
 
@@ -87,7 +87,7 @@ class HomeScreen extends StatelessWidget {
                           onTap: () {
                             Navigator.push(
                               context,
-                              MaterialPageRoute(builder: (context) => const ImageSearchScreen()),
+                              MaterialPageRoute(builder: (context) => const MyClubHomeScreen()),
                             );
                           },
                         ),
